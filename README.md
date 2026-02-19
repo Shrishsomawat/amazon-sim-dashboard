@@ -82,5 +82,6 @@ Upload your Excel file with three sheets:
 ## Built By
 
 Shrish Somawat — Data Engineer  
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL)  
+[LinkedIn](https://www.linkedin.com/in/shrishsomawat/)  
 [GitHub](https://github.com/Shrishsomawat)
+🚀 Live Demo: https://amazon-sim-dashboard-iquyzu3pmmdfduqcca4dct.streamlit.app/
